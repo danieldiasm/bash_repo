@@ -1,2 +1,4 @@
 # bash_repo
-A bunch of Shell Script files
+A bunch of Shell Script files in a repo.
+
+## Script list
