@@ -6,6 +6,11 @@
 PY3=`which python3`
 PIP3=`which pip3`
 
+clear
+echo "PYCHECK.SH"
+echo "Will now check for python installations..."
+echo 
+
 # Check for Python3 and collect if installation is desired
 if [ -z $PY3 ]; then
     echo "No Python 3 installation has been found."
