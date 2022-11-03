@@ -1,5 +1,8 @@
 #! /usr/bin/bash
 
+# Daniel Z. Dias Moraes - L3Chevalier
+# Nov - 2022
+
 PY3=`which python3`
 PIP3=`which pip3`
 
