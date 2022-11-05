@@ -3,6 +3,8 @@
 # 5th Nov 2022
 
 # Zabbyx Installer on Raspian OS (Bullseye)
+
+# [] - Installation starting message
 # [] - Install Zabbix repository
 # [] - Install Zabbix server, frontend, agent
 # [] - Create initial database
