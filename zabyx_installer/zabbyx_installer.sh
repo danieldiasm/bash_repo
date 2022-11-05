@@ -9,7 +9,7 @@
 # [] - Configure the database for Zabbix server
 # [] - Configure PHP for Zabbix frontend
 # [] - Start Zabbix server and agent processes
-# [] - Final message
+# [] - Final message ending installation
 
 echo "- Zabbyx Installer -"
 echo ""
