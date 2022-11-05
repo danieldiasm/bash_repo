@@ -3,3 +3,8 @@
 # 5th Nov 2022
 
 # Zabbyx Installer
+# [] - MySQL database
+# [] - PHP
+# [] - Apache server
+
+echo "- Zabbyx Installer -"
